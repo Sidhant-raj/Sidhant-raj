@@ -1,3 +1,9 @@
+<h3 align="center">
+  Welcome to Sidhant Raj's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
 - 👋 Hi, I’m @Sidhant-raj
 - 👀 I’m interested in Programming, Ethical Hacking
 - 🌱 I’m currently learning C , C++ 
